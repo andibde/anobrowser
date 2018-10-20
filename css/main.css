@@ -2529,13 +2529,19 @@ html[data-useragent*='MSIE 10.0'] .home-scrolldown,
   background-size: 230px 71px;
 }
 
-#download .download-badges li a.badge-appstore {
-  background-image: url("../images/appstore.png");
+#download .download-badges li a.badge-amazonstore {
+  background-image: url("../images/amazondown.png");
 }
 
 #download .download-badges li a.badge-googleplay {
   background-image: url("../images/google-play.png");
 }
+
+#download .download-badges li a.badge-aptoide {
+  background-image: url("../images/aptoidedown.png");
+}
+
+
 
 
 /* ------------------------------------------------------------------- 
