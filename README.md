@@ -5,7 +5,7 @@
 
 Website: https://realyellowdev.github.io/anobrowser
 
-Spenden: http://bit.ly/spendenforanobrowser
+Spenden: https://play.google.com/store/apps/details?id=gigprojekt.com.spenden
 
 
 
