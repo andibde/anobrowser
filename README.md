@@ -6,7 +6,7 @@
 
 Website: https://andibde.github.io/anobrowser
 
-Download: https://play.google.com/store/apps/details?id=gigprojekt.com.webbrowserpro
+Download: https://play.google.com/store/apps/details?id=gigprojekt.com.webbrowerpro
 
 Spenden: https://play.google.com/store/apps/details?id=gigprojekt.com.spenden
 
