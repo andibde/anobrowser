@@ -15,7 +15,7 @@ Download on Google Play: https://play.google.com/store/apps/details?id=gigprojek
 
 For Windows Beta:
 
-Download as zip: https://gigserver.000webhostapp.com/setup.zip
+Download as zip: https://github.com/andibde/server/blob/master/anobrowser/windows/setup.zip?raw=true
 
 # Is it safe?
 
