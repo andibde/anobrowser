@@ -9,7 +9,7 @@ Ano Browser is a safe High Speed Internet Browser!
 
 For Android:
 
-Download at Google Play: https://play.google.com/store/apps/details?id=gigprojekt.com.webbrowerpro
+Download on Google Play: https://play.google.com/store/apps/details?id=gigprojekt.com.webbrowerpro
 
 
 
