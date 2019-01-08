@@ -25,7 +25,7 @@ VirusTotal Scan for Windows Version: https://www.virustotal.com/#/file/c5b1b5574
 
 # Donate
 
-PayPal: http://bit.ly/spendenforanobrowser
+PayPal: http://paypal.me/brunnera
 
 
 Spenden: https://play.google.com/store/apps/details?id=gigprojekt.com.spenden
