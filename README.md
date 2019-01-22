@@ -23,6 +23,9 @@ VirusTotal Scan for Android Version: https://www.virustotal.com/#/file/9c90bbfbb
 
 VirusTotal Scan for Windows Version: https://www.virustotal.com/#/file/c5b1b5574eb3354aacf4c015606ef39724c804bc1596d04dcbaf8c8363d44426/
 
+## [Privacy Police](https://andibde.github.io/anobrowser/privacypolicy.html)
+## [Terms & Conditions](https://andibde.github.io/anobrowser/terms.html)
+
 # Donate
 
 Spenden: https://play.google.com/store/apps/details?id=gigprojekt.com.spenden
