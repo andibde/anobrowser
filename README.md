@@ -4,6 +4,8 @@
 
 
 Ano Browser is a safe High Speed Internet Browser! 
+[Privacy Police](https://andibde.github.io/anobrowser/privacypolicy.html)
+[Terms & Conditions](https://andibde.github.io/anobrowser/terms.html)
 
 # Download
 
