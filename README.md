@@ -1,6 +1,6 @@
 ![Ano Browser](https://andibde.github.io/anobrowser/logo_black.png)
 
-[![Ano Technology](https://andibde.github.io/anotechnology/)](anotechnology.andib.org)
+[![Ano Technology](https://goo.gl/x1VJfY)](https://andibde.github.io/anotechnology/)
 
 
 Ano Browser is a safe High Speed Internet Browser! 
