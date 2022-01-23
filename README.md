@@ -5,6 +5,10 @@
 
 Ano Browser is a safe High Speed Internet Browser! 
 
+Integrated: 
+[Startpage](https://andibde.github.io/anobrowser-start-page/)
+[Comming Soon](https://github.com/andibde/suchr)
+
 [Privacy Police](https://andibde.github.io/anobrowser/privacypolicy.html)
 
 [Terms & Conditions](https://andibde.github.io/anobrowser/terms.html)
